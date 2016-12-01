@@ -1,5 +1,4 @@
 # firstTXT
 test
 
-hello world
-this is a test!
+ for remote test
